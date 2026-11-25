@@ -1,16 +1,17 @@
-## Hi there 👋
+const serhii: Engineer = {
+  role:       "Senior Full-Stack Engineer",
+  experience: "5+ years, commercial",
+  based:      "Lutsk, Ukraine 🇺🇦",
+  worksWith:  "software houses → clients in EU & US",
+  languages:  ["Ukrainian (native)", "English (full professional)"],
 
-<!--
-**Serhii-Tsymbaliuk/Serhii-Tsymbaliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  focus: [
+    "Node.js APIs — REST & GraphQL (Express, NestJS)",
+    "React / Next.js web apps & admin dashboards",
+    "PostgreSQL & MongoDB modelling, Redis caching",
+    "Docker + AWS deployments, CI/CD",
+    "Python integrations for data & forecasting",
+  ],
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  believesIn: "readable code, simple architecture, features that are still easy to maintain a year later",
+};
